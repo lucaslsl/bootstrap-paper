@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap",
+  "name": "bootstrap-paper",
   "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
   "version": "3.3.4",
   "keywords": [
@@ -12,7 +12,7 @@
     "framework",
     "web"
   ],
-  "homepage": "http://getbootstrap.com",
+  "homepage": "https://bootswatch.com/paper/",
   "main": [
     "less/bootstrap.less",
     "dist/css/bootstrap.css",
